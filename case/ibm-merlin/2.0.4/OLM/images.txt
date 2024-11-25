@@ -1,0 +1,8 @@
+cp.icr.io/cp/ibmi-merlin/ibmi-merlin-engine@sha256:514ec3190a71e048a565b4e46f49815a812071418a5eae57bf83a5b0bd517b3e
+cp.icr.io/cp/ibmi-merlin/ibmi-merlin-gui@sha256:da9c5fdd9b8c43d61f4292ee560261bd9bf2f18fba3a775c28c5cbce2cfd4495
+cp.icr.io/cp/ibmi-merlin/ibmi-merlin-keycloak@sha256:db36ce67afc1f03b7a07209e7fc9311fb41d7c8f80d6a1e0d48b0c097171fb27
+cp.icr.io/cp/ibmi-merlin/ibmi-merlin-postgresql@sha256:d23d335be08bcb4e7584cb780affbcd99d81d056c992a69ccefef03b1bcacb6d
+cp.icr.io/cp/ibmi-merlin/ibmi-merlin-vault@sha256:5ccdd0b8674f53c231d5b72e3368891d7020247b7d4e7f32882d104d2422be36
+icr.io/cpopen/ibmi-merlin-operator-bundle@sha256:fd88589f5e0ac1c5256ff7326fcb8ebd9cf8800dfe5b274ebc85af6609e2b617
+icr.io/cpopen/ibmi-merlin-operator-catalog@sha256:1481454b6a3b395d60c9a3bb3954a0b97f65bec6d05487cc59ba1bfb2f87a7a6
+icr.io/cpopen/ibmi-merlin-operator@sha256:3056432d69cf31d9a7a84ea99c13a126ffb6273895e9f533b5200552fa41a1de

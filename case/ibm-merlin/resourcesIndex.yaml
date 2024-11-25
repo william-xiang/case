@@ -1,0 +1,980 @@
+apiVersion: v1
+containerImages:
+- caseVersions:
+  - 1.0.0
+  category: catalog
+  digest: sha256:fffec6307af8eb9160e052ade98d938fceb75866d21fc013f73b4cb5cd5d6d22
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.0-amd64
+- caseVersions:
+  - 1.0.0
+  category: catalog
+  digest: sha256:05f335aac857ec6e45724f013dd8f04dd7636859dd1f29474cc3c6d6c5815747
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.0-ppc64le
+- caseVersions:
+  - 1.0.0
+  category: catalog
+  digest: sha256:9822c5481ee597df193efba452acc6d13d56257aef0fcfbd5cab9b9004735f57
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.0.0
+- caseVersions:
+  - 1.0.0
+  category: catalog
+  digest: sha256:397250f0b7a8a639f5829e4fd79f9e861cb08c803999465efe4330f52ba8b2f2
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.0-amd64
+- caseVersions:
+  - 1.0.0
+  category: catalog
+  digest: sha256:63b01272ce89e2ba8d8c880aa9da16247dfccdb9fc2072db684682f02e2fe9fd
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.0-ppc64le
+- caseVersions:
+  - 1.0.0
+  category: catalog
+  digest: sha256:1156b4181c2a24620592977ee2a72803af38b1f0fa0a8ba796c79a43caccfedd
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.0.0
+- caseVersions:
+  - 1.0.0
+  category: catalog
+  digest: sha256:d888221d0caddd1cb0c44f30d58aaa5f5c63a9263d4b424a2a6a5c137bf1f4a1
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.0-master-amd64
+- caseVersions:
+  - 1.0.0
+  category: catalog
+  digest: sha256:7325559f0db2babcbcb7f4f3cd3671dcbcbb8060bf47d13f88ac78bbe1f1a7f0
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.0-master-ppc64le
+- caseVersions:
+  - 1.0.0
+  category: catalog
+  digest: sha256:a29a711b39391e50f3cd0b4ba5de91d720039b3588c80ecf622ceb99e247908b
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.0.0-master
+- caseVersions:
+  - 1.0.0
+  category: catalog
+  digest: sha256:e287157e4a2f672c40e2e3bf4c4a23b59552214d2b259eb991ac993b6e98eb61
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.0-amd64
+- caseVersions:
+  - 1.0.0
+  category: catalog
+  digest: sha256:f705775457d59688258e37a97a02e83bedaf975e6d7d37e6c7b31bdaa72371c2
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.0-ppc64le
+- caseVersions:
+  - 1.0.0
+  category: catalog
+  digest: sha256:62390693cbfaa0e69252b1ee41969c35e00ed7594434c60ec565c0c19c14f781
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.0.0
+- caseVersions:
+  - 1.0.1
+  category: catalog
+  digest: sha256:72695916f577360fbdfe084eafd8666cc79f725a7c18e3650fcb9fc7297610ca
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.1-amd64
+- caseVersions:
+  - 1.0.1
+  category: catalog
+  digest: sha256:f12a24f47551d15523d3193b69ba87947c43350b36baad4321e418c7b6474f0b
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.1-ppc64le
+- caseVersions:
+  - 1.0.1
+  category: catalog
+  digest: sha256:a15dbbf5f6293b715abcfd3b2f15f56b7f38d4e5c23c48c59e8165b19abb5b16
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.0.1
+- caseVersions:
+  - 1.0.2
+  category: catalog
+  digest: sha256:684f5329a286634360bfa0874b1eb82cda1588139e2b0e5e6b3c1d1e60f400fc
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.2-amd64
+- caseVersions:
+  - 1.0.2
+  category: catalog
+  digest: sha256:24166794dad810ac2697f7359f9236e5974b30f15ab2bac9016707cca6ea92cf
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.2-ppc64le
+- caseVersions:
+  - 1.0.2
+  category: catalog
+  digest: sha256:1f13209e37bba4c26eed82af4523f7646c1c634b81c88a9e4239e7e750acb699
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.0.2
+- caseVersions:
+  - 1.0.2
+  category: catalog
+  digest: sha256:41b772bdcbc157ff81f884562a0665e043f8458881960016103cbc896940ffb3
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.2-amd64
+- caseVersions:
+  - 1.0.2
+  category: catalog
+  digest: sha256:dab914f62e059221d92029259109e95775f71f8bbba6bcda46024f10ac533318
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.2-ppc64le
+- caseVersions:
+  - 1.0.2
+  category: catalog
+  digest: sha256:0a6cbea9b6a1af903cb83d3e283664c32c5120014fd2369569a6c590a8eeffb7
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.0.2
+- caseVersions:
+  - 1.0.2
+  category: catalog
+  digest: sha256:5f1211a9412c74f687087d996b888b94763d6281a160bbfefee31f6ecc7be8f5
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.2-amd64
+- caseVersions:
+  - 1.0.2
+  category: catalog
+  digest: sha256:5c2a0e864776ab914f4658ddd936ad0752cfddd68b7ce405edff62c808a7c58d
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.2-ppc64le
+- caseVersions:
+  - 1.0.2
+  category: catalog
+  digest: sha256:c29cd826ff6b30ecd8bed949a07c196299c29bb7ba459cfa375cafb3a5dee232
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.0.2
+- caseVersions:
+  - 1.0.3
+  category: catalog
+  digest: sha256:23aef085e1ad23d0d19b1eaa968d55551bcdb7b09cb0058a705a209a87e2cad1
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.3-amd64
+- caseVersions:
+  - 1.0.3
+  category: catalog
+  digest: sha256:69fea0542bf46a9758f7949bc90e7db54b44ec51542b86dc16e4370e70de9f2c
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.3-ppc64le
+- caseVersions:
+  - 1.0.3
+  category: catalog
+  digest: sha256:43c9a0859f6c70aac221144aa20c87cbf5ee1589943eb7e02395f9cb4599efd8
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.0.3
+- caseVersions:
+  - 1.0.3
+  category: catalog
+  digest: sha256:12647de693e17ba6b4655fa31087d632d39d5781b7886b4238505c4f050f18f5
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.3-amd64
+- caseVersions:
+  - 1.0.3
+  category: catalog
+  digest: sha256:3768a41f9747b214bd5d4282e597295e923c9b6db98f2b22472e10ce636f98b0
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.0.3-ppc64le
+- caseVersions:
+  - 1.0.3
+  category: catalog
+  digest: sha256:4d81a4fabc6e90e2ea1a1115284058465f400b91c8740eafef77fea2648fbd2e
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.0.3
+- caseVersions:
+  - 1.4.0
+  category: catalog
+  digest: sha256:d3e7db87da35e1297e2cf4dcd574d736c367cdf63e616e3aecf2ff63ecb95b53
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.0-amd64
+- caseVersions:
+  - 1.4.0
+  category: catalog
+  digest: sha256:f2ad75033b274fb3c2d8e68482f4b442c8a8b615c85e8b83b3b1a8448b80fd2c
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.0-ppc64le
+- caseVersions:
+  - 1.4.0
+  category: catalog
+  digest: sha256:93d986c775475b6d056f3efd4a15d4bc1569d287c4df573122602ea71aa6eb7f
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.4.0
+- caseVersions:
+  - 1.4.0
+  category: catalog
+  digest: sha256:c5579ae74051ee8af4f0224580207bf9ec755bd3a809ff494c558643c0f2343d
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.0-amd64
+- caseVersions:
+  - 1.4.0
+  category: catalog
+  digest: sha256:ec75fcaca840f56465b0a6a62b641a4dd4a5fc952805bd37b0e6448530a4128e
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.0-ppc64le
+- caseVersions:
+  - 1.4.0
+  category: catalog
+  digest: sha256:9c67be5f1eeac017ca20337d71f5dd1090d6450c6af0e41618ad46830308273d
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.4.0
+- caseVersions:
+  - 1.4.0
+  category: catalog
+  digest: sha256:5856dfb3aea001543e00578f512982c24159782f12e505e077a984b46e278be9
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.0-amd64
+- caseVersions:
+  - 1.4.0
+  category: catalog
+  digest: sha256:e883c515f18e034cac81cbafe72958d77918d0837d44a977bd1496e91af79c1c
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.0-ppc64le
+- caseVersions:
+  - 1.4.0
+  category: catalog
+  digest: sha256:c88e7ba41abacdc0c2fd9673435eb1041f4d5a3509f655ce948c16dcd8de01e0
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.4.0
+- caseVersions:
+  - 1.4.1
+  category: catalog
+  digest: sha256:bb6825e8eeb73d235513c3879f220ffa05367e89788a26bc0d124775fc9f658c
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.1-amd64
+- caseVersions:
+  - 1.4.1
+  category: catalog
+  digest: sha256:f6d0b3331e800cf793fad4bd82efd3011b3b67ac6415ee8c0e29d6babf26ff13
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.1-ppc64le
+- caseVersions:
+  - 1.4.1
+  category: catalog
+  digest: sha256:16a0c09bfc691cc07cae033d54c2cc54e64aaf4454f05bfa759ffcc24c538ffd
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.4.1
+- caseVersions:
+  - 1.4.1
+  category: catalog
+  digest: sha256:5ffd98620e8327bc3a5009c59a8e54919465665282a7c9a9810d73924e68fcc6
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.1-amd64
+- caseVersions:
+  - 1.4.1
+  category: catalog
+  digest: sha256:6edf06292ab2c85dc8d6f80c2f09199f1578427ad965dc215373cfb030a73d11
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.1-ppc64le
+- caseVersions:
+  - 1.4.1
+  category: catalog
+  digest: sha256:2faca52e212c2fb37142f1a65e450a8a0cddbc7d75f77342be76ca73ff6b5b8e
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.4.1
+- caseVersions:
+  - 1.4.2
+  category: catalog
+  digest: sha256:7bf2c18cdcdb107ef3753778db769f4e42b7149e19e01239f9fcbd852b7ec2f4
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.2-amd64
+- caseVersions:
+  - 1.4.2
+  category: catalog
+  digest: sha256:be0165cf16995fda402afe6258e42d65f2caae82a0dffd0a588505209418ee2a
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.2-ppc64le
+- caseVersions:
+  - 1.4.2
+  category: catalog
+  digest: sha256:489bd0675445b7d8c98d0fcaa4147da4340aeb9addd0217795dc34a65ebce2d5
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.4.2
+- caseVersions:
+  - 1.4.2
+  category: catalog
+  digest: sha256:152882548df2110352a9c1b007f41c6b5d6bede42f25e204794e559586a7d054
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.2-amd64
+- caseVersions:
+  - 1.4.2
+  category: catalog
+  digest: sha256:d4c5df0974fb2e1ccf348f5f79e0d5d68fbaf60c73e76483ec1a55a26fb08fa4
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.2-ppc64le
+- caseVersions:
+  - 1.4.2
+  category: catalog
+  digest: sha256:2818d21d35e0667b9a89b1d30f0536c21565fbe832b5c11beb29eabbb9e324e6
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.4.2
+- caseVersions:
+  - 1.4.3
+  category: catalog
+  digest: sha256:fabea150df795b716f6f08340d98f87601a8d71f0895b33b950831aa5658ec52
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.3-amd64
+- caseVersions:
+  - 1.4.3
+  category: catalog
+  digest: sha256:dc7a46a7553d6163f29678bd06ab5d69228289569e51444b6ca92fcc6709fcdf
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.3-ppc64le
+- caseVersions:
+  - 1.4.3
+  category: catalog
+  digest: sha256:6bc72f9e9071a2f7f6b9e6320b9fb26c885fe07bb91e33ff4fb6eed7175444ea
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.4.3
+- caseVersions:
+  - 1.4.3
+  category: catalog
+  digest: sha256:72c673df81bb76749dd472d48f67f8b743aad2f88d41e5c2bceb3af464e118ba
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.3-amd64
+- caseVersions:
+  - 1.4.3
+  category: catalog
+  digest: sha256:de8053e42bba4ec4c9a1471809117f7c843562a9566ca25ff39752853c7263b5
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.3-ppc64le
+- caseVersions:
+  - 1.4.3
+  category: catalog
+  digest: sha256:a60d4af692abae8fb98122470263954e0005242511c3a3f690dc17db76adb436
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.4.3
+- caseVersions:
+  - 1.4.3
+  category: catalog
+  digest: sha256:c5ba5949df832ccdf5a3b02e2cb3c6e7d2fe01d8cc13fda7252cead177c84707
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.3-amd64
+- caseVersions:
+  - 1.4.3
+  category: catalog
+  digest: sha256:04d7dcba2a504c40198108ce672e0cb6d6fc7509c83ad74521e2c6da5ba9b609
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.3-ppc64le
+- caseVersions:
+  - 1.4.3
+  category: catalog
+  digest: sha256:a75f30348d12ed71d6cf9ab4fde1669fb48f2c322aa159c264fc8c798236f6a5
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.4.3
+- caseVersions:
+  - 1.4.4
+  category: catalog
+  digest: sha256:9d7d7cd80f180f67aa65dabc314523896d798a7b25134a21cb9457ac58faf025
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.4-amd64
+- caseVersions:
+  - 1.4.4
+  category: catalog
+  digest: sha256:e99e28dd211ff1bb20a02fa4981c94e60a27c61e4129a9022382042d43877124
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.4-ppc64le
+- caseVersions:
+  - 1.4.4
+  category: catalog
+  digest: sha256:8348b193622eac47bdc29b833b3a5d279e7451d6bb4ed4860628e6c2bc818b1b
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.4.4
+- caseVersions:
+  - 1.4.5
+  - 1.4.6
+  - 3.0.0
+  category: catalog
+  digest: sha256:f442d588add87fd5a51d142076e6e7cbc9dcbacbf609e3f477857c32ecd3497b
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.5-amd64
+- caseVersions:
+  - 1.4.5
+  - 1.4.6
+  - 3.0.0
+  category: catalog
+  digest: sha256:3b55bd3aa2b2bd022a1e454050cc980d7625b9f01bfe1e35e6f4d120d839a404
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.5-ppc64le
+- caseVersions:
+  - 1.4.5
+  - 1.4.6
+  - 3.0.0
+  category: catalog
+  digest: sha256:06dcdfad90faa0475e7f08f4e5b010da936d253f6f9c48688f765141ee396824
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.4.5
+- caseVersions:
+  - 1.4.6
+  category: catalog
+  digest: sha256:184b75ccd33739a094036adc7ee8035496ff90fbdbfffc4fc79cde5a3224de9c
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.6-amd64
+- caseVersions:
+  - 1.4.6
+  category: catalog
+  digest: sha256:98fb9ae7332027b2c4aa013f02faf5526e04b73071e67fdf69f5c8e2a9fe3c84
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.6-ppc64le
+- caseVersions:
+  - 1.4.6
+  category: catalog
+  digest: sha256:6271ad567e2db1feab0b5fcd3a86f39dbafc614b2bcff99bbb3e6cf4e8025219
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.4.6
+- caseVersions:
+  - 1.4.6
+  category: catalog
+  digest: sha256:5ff12c8ee3983eca09374bc9d659764305383b2b90946ced6e536ae915ad2446
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.6-amd64
+- caseVersions:
+  - 1.4.6
+  category: catalog
+  digest: sha256:0fba41fa009c7150e7ee8cbd8a371e0c829e4e5439d742d486ea3ae3b990b830
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.6-ppc64le
+- caseVersions:
+  - 1.4.6
+  category: catalog
+  digest: sha256:2f7148827edaec5dbcb17f3db05ef5bfe7ac0d320c1b69c36fd3dfe8e8a0a689
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.4.6
+- caseVersions:
+  - 1.4.7
+  category: catalog
+  digest: sha256:814d62210c96a3314a79631f2e455c9838b25de305db8e0b4af8587e356dd641
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.7-amd64
+- caseVersions:
+  - 1.4.7
+  category: catalog
+  digest: sha256:af5d05b83cbe3e0bf6d15d7074c4a71bf12e13aff7a8d29b3c99996995c1cbd5
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.7-ppc64le
+- caseVersions:
+  - 1.4.7
+  category: catalog
+  digest: sha256:c83c853b312dac245b337c228a2503617f235e20814b51083d5be6c986f3ab9b
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.4.7
+- caseVersions:
+  - 1.4.7
+  category: catalog
+  digest: sha256:48dda98fb4e6226fcd1848ca43ec50174f9ec0f1779d662ac8b4596831193ea8
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.7-amd64
+- caseVersions:
+  - 1.4.7
+  category: catalog
+  digest: sha256:701a200b04cf0a8217f91a30e4f875e5bc40767e3946cebffa3c7b323bbeaefe
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.7-ppc64le
+- caseVersions:
+  - 2.0.0
+  category: catalog
+  digest: sha256:31b449539e886e40781707531f24c7d4e91000f28c73175fb948f3695f034257
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 2.0.0-amd64
+- caseVersions:
+  - 2.0.0
+  category: catalog
+  digest: sha256:468f58c9326a2e303d15b0aaa519df620b66667634e147c4a6b21624ca485578
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 2.0.0-ppc64le
+- caseVersions:
+  - 2.0.0
+  category: catalog
+  digest: sha256:7f7d1935f05a7651535e2bfb8a84dc51b6e8a96d1b0cd703f788bf3775f0dee2
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 2.0.0
+- caseVersions:
+  - 2.0.0
+  category: catalog
+  digest: sha256:613b3bd712d1e206f38ddddf72502301a2582869a04b26db46cfc237338009a1
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 2.0.0-amd64
+- caseVersions:
+  - 2.0.0
+  category: catalog
+  digest: sha256:095be06513d046feb512e7293f0afdbbf5e4129a8ed3cd149513450038ee9af6
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 2.0.0-ppc64le
+- caseVersions:
+  - 2.0.0
+  category: catalog
+  digest: sha256:5882e2eceb9c77744b0ee0e53c05fb1b7178019cf7fe93e813b4e2b29f7e004e
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 2.0.0
+- caseVersions:
+  - 2.0.1
+  category: catalog
+  digest: sha256:99405a556b1e858f1486af8b63690b6db06a9e0a7af7dce558a2db01411d16bd
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 2.0.1-amd64
+- caseVersions:
+  - 2.0.1
+  category: catalog
+  digest: sha256:55211454c1e284aa625dff535c3ec5b0ee154606011cdec678562d8c10f0f5b2
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 2.0.1-ppc64le
+- caseVersions:
+  - 2.0.1
+  category: catalog
+  digest: sha256:3374280c5da34ca094b3c45fe46879335becb986756b76d26a8b3909b1f536e2
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 2.0.1
+- caseVersions:
+  - 1.4.8
+  category: catalog
+  digest: sha256:3b01768517b7ecfaaa58901604ae0cdfa8e6d34fba59e7376d5a1c0e89e366ac
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.8-amd64
+- caseVersions:
+  - 1.4.8
+  category: catalog
+  digest: sha256:e6abc8fb932bfaa6626705e4eb2f737d8e9a5103fb7f0676cc69cadc9d74409b
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.8-ppc64le
+- caseVersions:
+  - 1.4.8
+  category: catalog
+  digest: sha256:ba7417bd657dccce823bd3302cbe39a77755a943a99e4fcb19a2a3a3b0dd9441
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.4.8
+- caseVersions:
+  - 2.0.2
+  category: catalog
+  digest: sha256:9fabc4099d61b6600eeec905c26c46774466a67c611cd81b75a32705d4a4224b
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 2.0.2-amd64
+- caseVersions:
+  - 2.0.2
+  category: catalog
+  digest: sha256:e4f67aa5c5391d9bd3ef82bbb70c7da31d3938f00c4ec1198741992dec1f5fb9
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 2.0.2-ppc64le
+- caseVersions:
+  - 2.0.2
+  category: catalog
+  digest: sha256:d831140cf07c7b823e99a8ac8e33b9ebb567ffbe8b4df2aa88c070e070a39369
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 2.0.2
+- caseVersions:
+  - 1.4.9
+  category: catalog
+  digest: sha256:e53fb409a625252198872997eec815431e481b18733e8e22541545a535d6b427
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.9-amd64
+- caseVersions:
+  - 1.4.9
+  category: catalog
+  digest: sha256:ba3a85cc10fa9178518c97e1d49533ad9192363760f946a28f305c18aa6056e7
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 1.4.9-ppc64le
+- caseVersions:
+  - 1.4.9
+  category: catalog
+  digest: sha256:13be4bc2395f6f648c42bc7a2557fb80708592e8224a5eea0c0744e052ad8a93
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 1.4.9
+- caseVersions:
+  - 2.0.3
+  category: catalog
+  digest: sha256:0e241717dd3aafcf41574659c961cb1eaf5bfe25d346df71ef33d7544830921a
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 2.0.3-amd64
+- caseVersions:
+  - 2.0.3
+  category: catalog
+  digest: sha256:395cd9f8ea58829635d4ab48248e34a80dac2305a34b829f649d39455538fd2b
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 2.0.3-ppc64le
+- caseVersions:
+  - 2.0.3
+  category: catalog
+  digest: sha256:3180838638291f9dd93a0799ce20f0e574246d5cdc9cc1eb85badccdd3865d47
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 2.0.3
+- caseVersions:
+  - 2.0.4
+  category: catalog
+  digest: sha256:e22287677ed6aca506db31c96daf3f05213d60565788d27ba1e2542b35738413
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 2.0.4-amd64
+- caseVersions:
+  - 2.0.4
+  category: catalog
+  digest: sha256:578079808941175624889c7cfd2fed9bed28837e04aa503ec1a51bc2b9d23899
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 2.0.4-ppc64le
+- caseVersions:
+  - 2.0.4
+  category: catalog
+  digest: sha256:7f5e007ab6d87326feb33b56078663e6bde12d0a6f932de5aba646726c7f39cc
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 2.0.4
+- caseVersions:
+  - 2.0.4
+  category: catalog
+  digest: sha256:51e3e2a03a8ace816976ced1eba9470144508337cce4d5137653e9175080f4b1
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: amd64
+    imagetype: manifestList
+    os: linux
+  tag: 2.0.4-amd64
+- caseVersions:
+  - 2.0.4
+  category: catalog
+  digest: sha256:f7028a79de40cd4fdea7cacdc97fbc362a1039513e10971ef00e39e99a3020b7
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    architecture: ppc64le
+    imagetype: manifestList
+    os: linux
+  tag: 2.0.4-ppc64le
+- caseVersions:
+  - 2.0.4
+  category: catalog
+  digest: sha256:1481454b6a3b395d60c9a3bb3954a0b97f65bec6d05487cc59ba1bfb2f87a7a6
+  image: cpopen/ibmi-merlin-operator-catalog
+  platform:
+    imagetype: manifestList
+  tag: 2.0.4
